@@ -1,6 +1,6 @@
 <p>
   <a href="https://choidaehwan.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-  <a href="choidaehwan9282@gmail.com" target="_blank"><img src="https://img.shields.io/badge/choidaehwan9282@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:choidaehwan9282@gmail.com" target="_blank"><img src="https://img.shields.io/badge/choidaehwan9282@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <p>
