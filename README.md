@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
+  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Django. 🚀<br/>
   Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
