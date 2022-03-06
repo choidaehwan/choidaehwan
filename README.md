@@ -5,7 +5,7 @@
 
 <p>
   👋&nbsp; 안녕하세요! I'm <b>백엔드 개발자</b>입니다. using Django. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
+  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native.<br/><br/>
   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
   ✨ <br/><br/>
 </p>
